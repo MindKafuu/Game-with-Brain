@@ -1,0 +1,6 @@
+C:\Private\FRA500\TestUDP\TestUDP\TestUDP\bin\Debug\TestUDP.exe.config
+C:\Private\FRA500\TestUDP\TestUDP\TestUDP\bin\Debug\TestUDP.exe
+C:\Private\FRA500\TestUDP\TestUDP\TestUDP\bin\Debug\TestUDP.pdb
+C:\Private\FRA500\TestUDP\TestUDP\TestUDP\obj\Debug\TestUDP.csprojAssemblyReference.cache
+C:\Private\FRA500\TestUDP\TestUDP\TestUDP\obj\Debug\TestUDP.exe
+C:\Private\FRA500\TestUDP\TestUDP\TestUDP\obj\Debug\TestUDP.pdb
